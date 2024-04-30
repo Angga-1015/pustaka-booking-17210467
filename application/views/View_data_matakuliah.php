@@ -29,10 +29,17 @@
         </td>
     </tr>
     <tr>
-        <th>SKS</th>
+        <th>SKS MTK</th>
         <td>:</td>
         <td>
             <?= $sks; ?>
+        </td>
+    </tr>
+    <tr>
+        <th>Status MTK</th>
+        <td>:</td>
+        <td>
+            <?= $status_mtk; ?>
         </td>
     </tr>
     <tr>
